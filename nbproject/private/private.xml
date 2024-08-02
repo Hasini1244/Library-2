@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/custom/Impl/BookServiceImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/library.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/custom/BookCategoryDao.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dto/BookDto.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/ServiceFactory.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dto/BookCategoryDto.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/DaoFactory.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/SuperDao.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/custom/Impl/MemberServiceImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/login/Login.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/custom/BookDao.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/controller/BookController.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/custom/Impl/BookCategoryDaoImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/custom/Impl/BookDaoImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/entity/BookCategoryEntity.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/view/MemberView.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/homePage/logout.jpg</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/custom/Impl/BorrowingTransactionsServiceImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/entity/BookEntity.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/login/login%20image.jpg</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/view/BorrowingTransactionsView.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/welcome/Welcome.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/entity/ReturnDetailEntity.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/CrudDao.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/login/background%20image.jpg</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/view/ReturnView.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/custom/Impl/MemberDaoImpl.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/SuperService.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/controller/BookCategoryController.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/dao/CrudUtil.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/view/BookCategoryView.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/custom/BookCategoryService.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/entity/BorrowDetailEntity.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/service/custom/BookService.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/homePage/homePage.java</file>
+            <file>file:/C:/Users/USER/Desktop/CMJD107/Library%20Management%20System/src/edu/ijse/view/BookView.java</file>
+        </group>
+    </open-files>
+</project-private>
